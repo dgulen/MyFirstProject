@@ -1,0 +1,6 @@
+TestConsoleApp.Business/obj/Debug/
+TestConsoleApp.Console/obj/Debug/
+TestConsoleApp.Core/obj/Debug/
+TestConsoleApp.Data/obj/Debug/
+TestConsoleApp.Core/bin/
+packages/
